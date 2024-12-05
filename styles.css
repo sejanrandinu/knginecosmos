@@ -7,7 +7,7 @@
     scroll-behavior: smooth;
     list-style: none;
     text-decoration: none;
-    
+    border: 1px solid red;
 }
 :root{
     --main-color: #32e1e1;
@@ -568,3 +568,11 @@ section {
     margin-bottom: -1rem;
     padding-bottom: -4rem;
 }
+.about-img img{
+    width: 95%;
+}
+
+#gallery1{
+    padding: 1rem;
+}
+    
